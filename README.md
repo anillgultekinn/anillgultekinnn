@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **anillgtekin@gmail.com**
+- 📫 How to reach me **anilgtekin@gmail.com**
 
 <div>
 <h3 align="left">Languages and Tools:</h3>
@@ -19,7 +19,3 @@
 
 
 
-<div>
-  <img src="https://komarev.com/ghpvc/?username=anillgultekinn&style=flat-square&color=blue" alt=""/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</div>  </br>  </br>
