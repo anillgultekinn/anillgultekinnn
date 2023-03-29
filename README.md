@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Anıl Gültekin</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anillgultekinn&label=Profile%20views&color=0e75b6&style=flat" alt="anillgultekinn" /> </p>
-
 - 🌱 I’m currently learning **React JS.**
 
 - 💬 Ask me about **React**
